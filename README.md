@@ -10,7 +10,7 @@ There's both a "normal" NeoPixel WS2812 and a Barf version. The only difference 
 
 Small chanel to route wires for a 2020 extrusion. Can put that up or down. 
 
-It uses the standard StealhBurner clear LED diffusor. 
+It uses the standard StealthBurner clear LED diffusor. 
 
 ![Assembly](https://github.com/Sands45/Bed-Front-Lights/blob/main/Images/LED%20Front%201.jpg)
 
