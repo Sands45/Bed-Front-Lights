@@ -9,3 +9,6 @@ There's both a "normal" NeoPixel WS2812 and a Barf version. The only difference 
 It uses the standard StealhBurner clear LED diffusor. 
 
 ![Assembly](https://github.com/Sands45/Bed-Front-Lights/blob/main/Images/LED%20Front%201.jpg)
+
+![Barf](https://github.com/Sands45/Bed-Front-Lights/blob/main/Images/LED%20Barf.jpg)
+
