@@ -12,3 +12,5 @@ It uses the standard StealhBurner clear LED diffusor.
 
 ![Barf](https://github.com/Sands45/Bed-Front-Lights/blob/main/Images/LED%20Barf.jpg)
 
+![Neo](https://github.com/Sands45/Bed-Front-Lights/blob/main/Images/LED%20NeoPixel.jpg)
+
